@@ -7,4 +7,8 @@ Hello this is feature branc
 =======
 Hello this is feature branch
 I am making another change in feature branch
+<<<<<<< HEAD
+>>>>>>> feature_branch
+=======
+THis is my second changes on feature branch
 >>>>>>> feature_branch
