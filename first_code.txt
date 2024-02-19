@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello this is my first commit
 =======
 Hello this is feature branc
+>>>>>>> feature_branch
+=======
+Hello this is feature branch
+I am making another change in feature branch
 >>>>>>> feature_branch
